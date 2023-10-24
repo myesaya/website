@@ -1,11 +1,10 @@
 ---
-title: "website-template"
+title: "About"
+subtitle: "Mabvuto Yesaya"
+image: id.jpg
+about: 
+  template: trestles
+
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+2 to 3 sentences
