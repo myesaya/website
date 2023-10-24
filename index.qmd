@@ -4,7 +4,11 @@ subtitle: "Mabvuto Yesaya"
 image: id.jpg
 about: 
   template: trestles
-
+format: 
+  html: 
+    toc: false
 ---
 
-2 to 3 sentences
+## About
+
+An Environmental Health professional and data enthusiast with tech insights who enjoys building open data science principles and pipelines. I found a passion for data science, and I code in SQL and R and create interactive shiny dashboards to help solve complex WASH challenges.
