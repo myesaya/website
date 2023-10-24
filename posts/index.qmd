@@ -1,0 +1,12 @@
+---
+title: research Blog
+subtitle: Here I share information about my blog
+listing:
+  contents: "*/index.qmd"
+  type: default
+  fields: [image,date,title,author,description,reading-time]
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+search: false
+---

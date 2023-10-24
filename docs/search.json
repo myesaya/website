@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "An Environmental Health professional and data enthusiast with tech insights who enjoys building open data science principles and pipelines. I found a passion for data science, and I code in SQL and R and create interactive shiny dashboards to help solve complex WASH challenges."
+  },
+  {
+    "objectID": "posts/2023-10-24-research-project/index.html",
+    "href": "posts/2023-10-24-research-project/index.html",
+    "title": "The Extent of solid waste burning in Blantyre, Malawi",
+    "section": "",
+    "text": "In Blantyre, Malawi, Solid waste burning has become a necessary waste management strategy to reduce waste volume in areas with limited solid waste collection(Nagpure, Ramaswami, and Russell 2015) . Waste burning is a source of particulate matter emissions that cause respiratory infection (Ramadan, Rachman, and Matsumoto 2022) . However, researchers have not studied waste burning at either the city or intra-city scale in Malawi. There is an emerging literature addressing onsite waste disposal methods in Malawian cities, including Lilongwe [Kalonde et al. (2023)](Ndala and Ndala, n.d.). However, disposal methods in other Malawian cities, including Blantyre, Mzuzu and Zomba are under-studied.  Studying Open waste burning will generate data that can enable the local authorities to design location-specific interventions that would address the issue."
+  },
+  {
+    "objectID": "posts/2023-10-24-research-project/index.html#heading",
+    "href": "posts/2023-10-24-research-project/index.html#heading",
+    "title": "The Extent of solid waste burning in Blantyre, Malawi",
+    "section": "",
+    "text": "In Blantyre, Malawi, Solid waste burning has become a necessary waste management strategy to reduce waste volume in areas with limited solid waste collection(Nagpure, Ramaswami, and Russell 2015) . Waste burning is a source of particulate matter emissions that cause respiratory infection (Ramadan, Rachman, and Matsumoto 2022) . However, researchers have not studied waste burning at either the city or intra-city scale in Malawi. There is an emerging literature addressing onsite waste disposal methods in Malawian cities, including Lilongwe [Kalonde et al. (2023)](Ndala and Ndala, n.d.). However, disposal methods in other Malawian cities, including Blantyre, Mzuzu and Zomba are under-studied.  Studying Open waste burning will generate data that can enable the local authorities to design location-specific interventions that would address the issue."
   }
 ]
